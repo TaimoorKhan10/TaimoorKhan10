@@ -176,7 +176,7 @@ current_focus:
 ### 🏗️ &nbsp; Enterprise RAG Framework
 **Production-grade Retrieval-Augmented Generation at scale**
 
-A battle-tested RAG architecture built for enterprise deployments — supporting multi-tenant document ingestion, hybrid dense-sparse retrieval, reranking pipelines, and LLM-agnostic query synthesis. Handles 160K+ document corpora with sub-second P95 latency.
+A battle-tested RAG architecture built for enterprise deployments, supporting multi-tenant document ingestion, hybrid dense-sparse retrieval, reranking pipelines, and LLM-agnostic query synthesis. Handles 160K+ document corpora with sub-second P95 latency.
 
 **Real-world Use Case** → Deployed as core intelligence layer for clinical decision support and enterprise knowledge bases.
 
@@ -203,7 +203,7 @@ A battle-tested RAG architecture built for enterprise deployments — supporting
 ### 🔧 &nbsp; MLOps Forge
 **End-to-end ML pipeline orchestration platform**
 
-An MLOps platform enabling automated model training, versioning, evaluation, and deployment across cloud and on-prem environments. Features experiment tracking, data lineage, model registry, drift detection, and CI/CD integration — reducing time-to-production by 70%.
+An MLOps platform enabling automated model training, versioning, evaluation, and deployment across cloud and on-prem environments. Features experiment tracking, data lineage, model registry, drift detection, and CI/CD integration, reducing time-to-production by 70%.
 
 **Real-world Use Case** → Enables teams to ship ML models to production in hours, not weeks.
 
@@ -384,7 +384,7 @@ Projects & case studies
 
 <br/>
 
-> **Open to:** Consulting engagements, technical advisory roles, and AI system collaborations.
+> **Open to:** Consulting engagements, technical advisory roles, Remote work and AI system collaborations.
 >
 > **Not open to:** Unpaid work, vague "partnership" offers, or generic recruitment messages.
 
