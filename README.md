@@ -274,6 +274,16 @@ A curated collection of production-optimized models spanning computer vision, NL
 
 <br/>
 
+## GitHub Trophies
+
+<br/>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=TaimoorKhan10&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7" width="100%"/>
+</div>
+
+<br/>
+
 ---
 
 <div align="center">
