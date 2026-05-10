@@ -293,23 +293,30 @@ A curated collection of production-optimized models spanning computer vision, NL
 <img src="./assets/stonepath-logo.png" alt="Stonepath Labs" width="180"/>
 
 </td>
-<td width="85%" valign="top">
+<td width="80%" valign="top">
 
-### &nbsp; Stonepath Labs &nbsp; `AI Systems Company`
+### &nbsp; Stonepath Labs &nbsp; `AI Implementation & Automation`
 
-We build **enterprise-grade AI infrastructure** for organizations that need reliable, production-ready intelligent systems — not proofs of concept.
+We help businesses adopt practical AI — not hype. Stonepath Labs builds intelligent systems and automation infrastructure for startups, clinics, agencies, and enterprises that want AI to actually work inside their operations.
 
-**What we build:**
-- 🔬 &nbsp; Custom LLM pipelines & RAG systems for enterprise data
-- 🏗️ &nbsp; End-to-end MLOps infrastructure for scaling AI teams
-- 🤖 &nbsp; Agentic AI systems & multi-step automation workflows
-- 📊 &nbsp; NLP-powered data intelligence and document processing
+> *"We don't sell AI. We build the systems that make it work."*
 
-**Our principle:** Every system we ship must be observable, scalable, and maintainable in production — or it doesn't leave the lab.
+**What we implement:**
+
+| Service | Description |
+|---|---|
+| 🔄 **AI Workflow Automation** | Replace repetitive manual processes with intelligent, reliable pipelines |
+| 🧠 **RAG & Knowledge Systems** | Internal AI assistants trained on your own data and documents |
+| 📄 **Document Intelligence** | Extract, classify, and act on information from unstructured documents |
+| 🤝 **Customer Support AI** | Deploy AI agents that resolve queries with context and precision |
+| 🔌 **AI Integrations** | Connect AI capabilities into your existing tools and workflows |
+| 🎨 **AI-Assisted Content** | Scalable content and design solutions powered by frontier AI models |
+
+**Who we work with:** Startups · Clinics · Agencies · Enterprises · Operations teams that know AI matters but don't know where to start.
 
 <p>
   <img src="https://img.shields.io/badge/Stage-Building-7c3aed?style=flat-square" />
-  <img src="https://img.shields.io/badge/Focus-Enterprise%20AI-0f172a?style=flat-square&logo=openai&logoColor=a78bfa" />
+  <img src="https://img.shields.io/badge/Focus-Practical%20AI%20Implementation-0f172a?style=flat-square&logo=openai&logoColor=a78bfa" />
   <img src="https://img.shields.io/badge/HQ-Pakistan-22c55e?style=flat-square" />
   <a href="mailto:stonepathlab@gmail.com"><img src="https://img.shields.io/badge/Contact-stonepathlab%40gmail.com-ea4335?style=flat-square&logo=gmail&logoColor=white" /></a>
 </p>
