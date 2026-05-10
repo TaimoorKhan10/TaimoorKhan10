@@ -26,6 +26,8 @@
   <a href="https://linkedin.com/in/taimoor-khan-87501226a"><img src="https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=flat-square&logo=linkedin&logoColor=white"/></a>
   &nbsp;
   <a href="mailto:stonepathlab@gmail.com"><img src="https://img.shields.io/badge/Email-Reach%20Out-ea4335?style=flat-square&logo=gmail&logoColor=white"/></a>
+  &nbsp;
+  <a href="https://taimoor-portfolio-delta.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit%20Site-7c3aed?style=flat-square&logo=vercel&logoColor=white"/></a>
 </p>
 
 </div>
@@ -39,13 +41,15 @@
 
 <br/>
 
-## `$ whoami` &nbsp; — &nbsp; Engineering Philosophy
+## About
 
 <table>
 <tr>
 <td width="60%" valign="top">
 
 > **I don't build demos. I build systems that go to production.**
+>
+> *Most AI engineers stop at the model. I start there.*
 
 I'm **Taimoor Khan** — an AI Engineer with deep expertise in architecting enterprise-grade machine learning pipelines, retrieval-augmented generation (RAG) systems, and deploying LLMs at scale.
 
@@ -96,7 +100,7 @@ current_focus:
 
 <br/>
 
-## `$ ls tech-stack/` &nbsp; — &nbsp; Arsenal
+## Tech Stack
 
 <br/>
 
@@ -160,7 +164,7 @@ current_focus:
 
 <br/>
 
-## `$ cat projects/` &nbsp; — &nbsp; Featured Work
+## Featured Projects
 
 <br/>
 
@@ -278,40 +282,7 @@ A curated collection of production-optimized models spanning computer vision, NL
 
 <br/>
 
-## `$ git log --oneline` &nbsp; — &nbsp; GitHub Activity
-
-<br/>
-
-<div align="center">
-
-<!-- GITHUB STATS CARDS -->
-<img src="https://github-readme-stats.vercel.app/api?username=TaimoorKhan10&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=a78bfa&icon_color=7c3aed&text_color=e2e8f0&border_radius=12&include_all_commits=true&count_private=true" height="180"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TaimoorKhan10&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=a78bfa&text_color=e2e8f0&border_radius=12&langs_count=8" height="180"/>
-
-<br/><br/>
-
-<!-- STREAK STATS -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=TaimoorKhan10&theme=midnight-purple&hide_border=true&background=0d0d1a&ring=7c3aed&fire=a78bfa&currStreakLabel=a78bfa&sideLabels=e2e8f0&currStreakNum=ffffff&sideNums=e2e8f0&dates=6b7280&border_radius=12" width="70%"/>
-
-<br/><br/>
-
-<!-- ACTIVITY GRAPH -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=TaimoorKhan10&bg_color=0d0d1a&color=a78bfa&line=7c3aed&point=ffffff&area=true&area_color=7c3aed&hide_border=true&radius=12" width="95%"/>
-
-</div>
-
-<br/>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7c3aed,100:a78bfa&height=3&section=header" width="60%"/>
-</div>
-
-<br/>
-
-## `$ open stonepath.ai` &nbsp; — &nbsp; Stonepath Labs
+## Stonepath Labs
 
 <br/>
 
@@ -357,7 +328,7 @@ We build **enterprise-grade AI infrastructure** for organizations that need reli
 
 <br/>
 
-## `$ ssh connect@taimoor` &nbsp; — &nbsp; Let's Build Together
+## Let's Connect
 
 <br/>
 
@@ -365,7 +336,7 @@ We build **enterprise-grade AI infrastructure** for organizations that need reli
 
 <table>
 <tr>
-<td align="center" width="33%">
+<td align="center" width="25%">
 
 **LinkedIn**
 
@@ -374,7 +345,7 @@ We build **enterprise-grade AI infrastructure** for organizations that need reli
 Professional network & work
 
 </td>
-<td align="center" width="33%">
+<td align="center" width="25%">
 
 **GitHub**
 
@@ -383,13 +354,22 @@ Professional network & work
 Code, projects & contributions
 
 </td>
-<td align="center" width="33%">
+<td align="center" width="25%">
 
 **Email**
 
 [![Email](https://img.shields.io/badge/Send%20an%20Email-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:stonepathlab@gmail.com)
 
 stonepathlab@gmail.com
+
+</td>
+<td align="center" width="25%">
+
+**Portfolio**
+
+[![Portfolio](https://img.shields.io/badge/View%20Portfolio-7c3aed?style=for-the-badge&logo=vercel&logoColor=white)](https://taimoor-portfolio-delta.vercel.app/)
+
+Projects & case studies
 
 </td>
 </tr>
