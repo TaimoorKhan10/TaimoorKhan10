@@ -1,4 +1,4 @@
-<div align="center">
+﻿<div align="center">
 
 <!-- ANIMATED HEADER BANNER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Taimoor%20Khan&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%E2%80%A2%20LLM%20Systems%20%E2%80%A2%20Production%20ML&descAlignY=58&descSize=18&descColor=a78bfa&animation=fadeIn" width="100%"/>
@@ -61,7 +61,7 @@ I believe great AI engineering means obsessing over:
 - **Scalability** — designed for 10x from day one
 - **Precision** — the right model, the right context, the right output
 
-Currently co-building **[Stonepath Labs](mailto:stonepathlab@gmail.com)** — an AI automation and enterprise systems company.
+Currently co-building **[Stonepath Labs](mailto:stonepathlab@gmail.com)** — building TAQ — release control for AI agents.
 
 </td>
 <td width="40%" valign="top" align="center">
@@ -165,6 +165,25 @@ current_focus:
 <br/>
 
 ## Featured Projects
+
+<br/>
+
+<!-- PROJECT CARD 0 -->
+<table>
+<tr>
+<td>
+
+### &nbsp; replayd — Turn failed AI agent runs into replayable regression tests
+
+The open source core of TAQ. When an AI agent fails in production, that failure becomes a replayable regression test that runs before every future deployment. If the same failure returns after a prompt, model, or tool change, the release is blocked.
+
+`pip install replayd`
+
+[github.com/TaimoorKhan10/replayd](https://github.com/TaimoorKhan10/replayd) — Part of TAQ by Stonepath Labs.
+
+</td>
+</tr>
+</table>
 
 <br/>
 
@@ -305,31 +324,9 @@ A curated collection of production-optimized models spanning computer vision, NL
 </td>
 <td width="80%" valign="top">
 
-### &nbsp; Stonepath Labs &nbsp; `AI Implementation & Automation`
+### &nbsp; Stonepath Labs
 
-We help businesses adopt practical AI — not hype. Stonepath Labs builds intelligent systems and automation infrastructure for startups, clinics, agencies, and enterprises that want AI to actually work inside their operations.
-
-> *"We don't sell AI. We build the systems that make it work."*
-
-**What we implement:**
-
-| Service | Description |
-|---|---|
-| 🔄 **AI Workflow Automation** | Replace repetitive manual processes with intelligent, reliable pipelines |
-| 🧠 **RAG & Knowledge Systems** | Internal AI assistants trained on your own data and documents |
-| 📄 **Document Intelligence** | Extract, classify, and act on information from unstructured documents |
-| 🤝 **Customer Support AI** | Deploy AI agents that resolve queries with context and precision |
-| 🔌 **AI Integrations** | Connect AI capabilities into your existing tools and workflows |
-| 🎨 **AI-Assisted Content** | Scalable content and design solutions powered by frontier AI models |
-
-**Who we work with:** Startups · Clinics · Agencies · Enterprises · Operations teams that know AI matters but don't know where to start.
-
-<p>
-  <img src="https://img.shields.io/badge/Stage-Building-7c3aed?style=flat-square" />
-  <img src="https://img.shields.io/badge/Focus-Practical%20AI%20Implementation-0f172a?style=flat-square&logo=openai&logoColor=a78bfa" />
-  <img src="https://img.shields.io/badge/HQ-Pakistan-22c55e?style=flat-square" />
-  <a href="mailto:stonepathlab@gmail.com"><img src="https://img.shields.io/badge/Contact-stonepathlab%40gmail.com-ea4335?style=flat-square&logo=gmail&logoColor=white" /></a>
-</p>
+Stonepath Labs is building TAQ — release control for AI agents. When an AI agent fails in production, that failure should become a replayable regression test before the next deployment. replayd is the open source core: `pip install replayd`. stonepathlab.net
 
 </td>
 </tr>
@@ -394,9 +391,7 @@ Projects & case studies
 
 <br/>
 
-> **Open to:** Consulting engagements, technical advisory roles, Remote work and AI system collaborations.
->
-> **Not open to:** Unpaid work, vague "partnership" offers, or generic recruitment messages.
+> **Open to:** Building Stonepath Labs and TAQ full-time. Not available for consulting or advisory work.
 
 <br/>
 
@@ -411,3 +406,4 @@ Projects & case studies
     Crafted with precision by <strong>Taimoor Khan</strong> &nbsp;•&nbsp; Powered by production-grade engineering principles &nbsp;•&nbsp; © 2025 Stonepath Labs
   </sub>
 </div>
+
