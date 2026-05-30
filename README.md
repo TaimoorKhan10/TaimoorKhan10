@@ -293,17 +293,6 @@ A curated collection of production-optimized models spanning computer vision, NL
 
 <br/>
 
-## GitHub Trophies
-
-<br/>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=TaimoorKhan10&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7" width="100%"/>
-</div>
-
-<br/>
-
----
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7c3aed,100:a78bfa&height=3&section=header" width="60%"/>
@@ -319,7 +308,7 @@ A curated collection of production-optimized models spanning computer vision, NL
 <tr>
 <td width="20%" align="center" valign="middle">
 
-<img src="./assets/stonepath-logo.png" alt="Stonepath Labs" width="180"/>
+<img src="assets/stonepath-logo.png" alt="Stonepath Labs" width="180"/>
 
 </td>
 <td width="80%" valign="top">
